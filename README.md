@@ -1,4 +1,4 @@
-*densitydesign.org* is currently down for maintenance
+_densitydesign.org_ is currently down for maintenance
 
 Our server needs to be cleaned and updated.
 We are currently performing some maintenance so our main website and all the other projects will not be available for a while.
